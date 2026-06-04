@@ -47,8 +47,9 @@ A full-stack MERN application designed to streamline hostel complaint registrati
 
 * Node.js
 * Express.js
-* JWT Authentication
 * REST APIs
+* JWT Authentication
+
 
 ### Database
 
